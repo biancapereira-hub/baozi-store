@@ -1,0 +1,12 @@
+target/
+.vscode/
+.idea/
+*.iml
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
